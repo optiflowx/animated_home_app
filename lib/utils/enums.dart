@@ -1,0 +1,1 @@
+enum PlugType { input, output }
